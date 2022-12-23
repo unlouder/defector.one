@@ -7,11 +7,11 @@
 #s00 {
     background-image: url(../img/bg-home.jpeg);
     background-size: cover;
-    background-position: center;
+    background-position: bottom right;
 }
 
 #s02 {
     background-image: url(../img/fish.jpeg);
     background-size: cover;
-    background-position: center;
+    background-position: bottom right;
 }
