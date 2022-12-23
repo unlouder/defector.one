@@ -1,2 +1,16 @@
 /* CSS */
 
+.display-1 {
+    font-weight: 100;
+}
+
+#s00 {
+    background-image: url(../img/bg-home.jpeg);
+    background-size: cover;
+}
+
+#s02 {
+    background-image: url(../img/fish.jpeg);
+    background-size: cover;
+    background-position: center;
+}
