@@ -6,23 +6,14 @@
 .display-4, 
 .display-5, 
 .h1, .h2, .h3, .h4, .h5 {
-    font-family: "Oswald", sans-serif;
+    font-family: "Big Shoulders Stencil Text", sans-serif;
     font-style: normal;
     font-weight: 500;
     letter-spacing: 0.13rem;
-    }
-    .h1, .h2, .h3, .h4, .h5 {
-        font-weight: 200;
     }
 
 #s00 {
     background-image: url(../img/bg-home.jpeg);
     background-size: cover;
     background-position: bottom right;
-}
-
-#s02 {
-    background-image: url(../img/fish.jpeg);
-    background-size: cover;
-    background-position: bottom center;
 }
