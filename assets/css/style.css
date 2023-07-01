@@ -1,5 +1,10 @@
 /* CSS */
 
+body {
+    background: url(../img/def2pink.jpeg);
+    background-size: cover;
+}
+
 .display-1, 
 .display-2, 
 .display-3, 
