@@ -3,6 +3,7 @@
 body {
     background: url(../img/def2pink.jpeg);
     background-size: cover;
+    background-position: center;
 }
 
 .display-1, 
